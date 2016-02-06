@@ -1,14 +1,14 @@
 #grupa A
-Bez nóg, bez rąk, bez głowy i brzucha, a gdy się obróci, wszędzie dmucha. 
-Zła pani – mieszka w bani. 
+Bez nóg, bez rąk, bez głowy i brzucha, a gdy się obróci, wszędzie dmucha.
+Zła pani – mieszka w bani.
 #grupa B
-Stoi panna w murze – w czerwonym kapturze. 
-Czterech braciszków się gonią, a nigdy się nie dogonią. 
+Stoi panna w murze – w czerwonym kapturze.
+Czterech braciszków się gonią, a nigdy się nie dogonią.
 #grupa C
 Między żerdziami nad kołkiem kołek, kto szedł, to wyszedł aż na wierzchołek.
 Wszystkie dziury w dachu poszyli, tylko jedną zostawili.
 #grupa D
-Siedmiu braciszków cały rok się gonią, i z roku na rok, i z wieku na wiek. 
+Siedmiu braciszków cały rok się gonią, i z roku na rok, i z wieku na wiek.
 Kto o nią dba, ten jej nie ma,a kto o nią nie dba, ten ją ma.
 #grupa E
 Głowę mu ścięto, serce wyjęto, pić mu dano, mówić kazano.
@@ -17,6 +17,7 @@ Skrzętnie murarze murują, W ich murze ludzie smakują.
 W lesie ścięto, w domu zgięto, W stajni stało, ogon dało, Na ręce wzięto – płakało.
 odp. Drewno
 Pole niewymierzone, bydełko niezliczone, Parobek rogaty a gospodarz bogaty.
+Odp. A
 #grupa G
 Żyje bez ciała,mówi bez języka,nikt go nie widzi,a każdy go słyszy.
 Z jakiego drzewa liść nigdy nie opada?
@@ -44,5 +45,3 @@ Lata ptaszek popod lasek, Zakrzywiony ma dziubasek.
 #grupa O
 Czerwony ptaszek, kopie ogonkiem piasek.
 Długie, cienkie nogi, długi ostry dziób, Uciekajcie żaby, bo to jest wasz wróg.
-
-
