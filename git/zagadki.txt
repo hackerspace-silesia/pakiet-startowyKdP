@@ -1,4 +1,4 @@
-#grupa A
+﻿#grupa A
 Bez nóg, bez rąk, bez głowy i brzucha, a gdy się obróci, wszędzie dmucha. 
 Zła pani – mieszka w bani. 
 #grupa B
@@ -7,6 +7,7 @@ Czterech braciszków się gonią, a nigdy się nie dogonią.
 #grupa C
 Między żerdziami nad kołkiem kołek, kto szedł, to wyszedł aż na wierzchołek.
 Wszystkie dziury w dachu poszyli, tylko jedną zostawili.
+ODP: okno dachowe :D
 #grupa D
 Siedmiu braciszków cały rok się gonią, i z roku na rok, i z wieku na wiek. 
 Kto o nią dba, ten jej nie ma,a kto o nią nie dba, ten ją ma.
