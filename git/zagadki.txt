@@ -1,4 +1,4 @@
-﻿#grupa A
+﻿﻿#grupa A
 Bez nóg, bez rąk, bez głowy i brzucha, a gdy się obróci, wszędzie dmucha. 
 odp: Wiatr
 Zła pani – mieszka w bani. 
@@ -25,7 +25,9 @@ Skrzętnie murarze murują, W ich murze ludzie smakują.
 Pszczoły/miód?
 #grupa F
 W lesie ścięto, w domu zgięto, W stajni stało, ogon dało, Na ręce wzięto – płakało.
+odp. Drewno
 Pole niewymierzone, bydełko niezliczone, Parobek rogaty a gospodarz bogaty.
+Odp. A
 #grupa G
 Żyje bez ciała,mówi bez języka,nikt go nie widzi,a każdy go słyszy.
 Z jakiego drzewa liść nigdy nie opada?
@@ -54,5 +56,3 @@ Lata ptaszek popod lasek, Zakrzywiony ma dziubasek.
 #grupa O
 Czerwony ptaszek, kopie ogonkiem piasek.
 Długie, cienkie nogi, długi ostry dziób, Uciekajcie żaby, bo to jest wasz wróg.
-
-
