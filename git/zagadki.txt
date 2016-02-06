@@ -1,18 +1,28 @@
-#grupa A
-Bez nóg, bez rąk, bez głowy i brzucha, a gdy się obróci, wszędzie dmucha.
-Zła pani – mieszka w bani.
+﻿﻿#grupa A
+Bez nóg, bez rąk, bez głowy i brzucha, a gdy się obróci, wszędzie dmucha. 
+odp: Wiatr
+Zła pani – mieszka w bani. 
+Odp: OSA
 #grupa B
-Stoi panna w murze – w czerwonym kapturze.
-Czterech braciszków się gonią, a nigdy się nie dogonią.
+Stoi panna w murze – w czerwonym kapturze. 
+Odp.: cegła
+Czterech braciszków się gonią, a nigdy się nie dogonią. 
+Odp: płaty śmigieł
 #grupa C
 Między żerdziami nad kołkiem kołek, kto szedł, to wyszedł aż na wierzchołek.
+odp: drabina.
 Wszystkie dziury w dachu poszyli, tylko jedną zostawili.
+ODP: okno dachowe :D
 #grupa D
 Siedmiu braciszków cały rok się gonią, i z roku na rok, i z wieku na wiek.
+H2O + kromka = ???  
 Kto o nią dba, ten jej nie ma,a kto o nią nie dba, ten ją ma.
+Odp. Broda 
 #grupa E
 Głowę mu ścięto, serce wyjęto, pić mu dano, mówić kazano.
+Odp: Gęsie pióro
 Skrzętnie murarze murują, W ich murze ludzie smakują.
+Pszczoły/miód?
 #grupa F
 W lesie ścięto, w domu zgięto, W stajni stało, ogon dało, Na ręce wzięto – płakało.
 odp. Drewno
