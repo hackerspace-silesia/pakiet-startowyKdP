@@ -1,0 +1,32 @@
+Git: hackerspace silesia2 haslo Hackerspace
+1) Tworzymy konto https://github.com
+2) Instalujemy gita https://git-scm.com/download/win -> 
+3) Kluczyk link: https://help.github.com/articles/generating-an-ssh-key/
+4) Tutorialek :-D Czyli:
+
+    * commity, branche, repo, forki
+
+
+    Tasks (tlumaczone po kolei jak chcesz):
+    1) git clone 
+    2) (grupa) git branch group_X
+    3) (grupa) git push origin group_X
+    4) (grupa) git pull; git checkout group_X
+    5) (osoba z grupy) zmiany; git add; git commit; git push origin group_X
+    6) Po skończeniu zagadek pull request do mastera
+
+
+    Python:
+
+    Windows:
+    www.python.com -> Download python2
+    klik klik klik (<3)
+    menu start -> cmd
+    cd C:\python27\scripts\
+    pip install ipython[all]
+    ipython notebook %HOMEPATH%
+
+    Linux:
+    sudo pip2 install Jupyter --upgrade
+    ipython notebook
+    #lol
